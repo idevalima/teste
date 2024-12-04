@@ -1,1 +1,1 @@
-![Descrição da imagem](assets/exemplo.png)
+![Descrição da imagem](assets/UML Diagrams (Community).png)
